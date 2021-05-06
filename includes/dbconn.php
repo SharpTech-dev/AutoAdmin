@@ -1,11 +1,12 @@
 <?php
+include 'config.php';
 
 // DB connection
 
 $server = "localhost";
-$user = "root";
-$password = "";
-$dbname = "custindex";
+$user = useNM;
+$password = pwd;
+$dbname = dbnm;
 
 // Create connection
 $conn = mysqli_connect($server, $user, $password, $dbname);

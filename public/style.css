@@ -1,0 +1,55 @@
+/* globals */
+* {
+  border-radius: 0 !important;
+}
+
+
+
+
+/* header section */
+div.outer-hd{
+    background-color: #4dd1a1;
+    padding: 20px 0 20px 0;
+    text-align: center;
+}
+
+div.inner-hd{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: bold;
+    font-size: 2em;
+    margin: 0 60px 0 60px;
+    
+}
+
+div.inner-hd h2{
+    color: white; 
+    font-size: 2.5em;  
+}
+
+div.inner-hd p{
+    color: white; 
+    font-size: 1em;  
+}
+
+
+
+/* form section customer information */
+
+
+div.form-hd{
+    background-color: #bdc6c7;
+    padding: 2px 0 2px 0;
+    margin: 10px 0 10px 0;
+    text-align: center;
+}
+
+div.form-group.btn-psh{
+    margin-top: 20px;
+}
+
+
+
+
+
+/* Retrieve section */
+
